@@ -1,7 +1,7 @@
 # UbiGeoAI
 
 
-Serie de funciones que permiten al usuario ubicar espacialmente los Bounding Boxes a partir de archivos georreferenciados (ráster) generado de esta manera, archivos en formato shapefile. Lo que permite hacer análisis en Sistemas de Información Geográfica.
+Serie de funciones que permiten al usuario ubicar espacialmente los Bounding Boxes a partir de archivos georreferenciados (ráster) generando de esta manera, archivos en formato shapefile. Lo que permite hacer análisis en Sistemas de Información Geográfica (SIG).
 
 Si quieres conocer mas de nuestro trabajo visita los siguientes enlaces de LinkedIn:
 
