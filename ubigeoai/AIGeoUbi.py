@@ -125,5 +125,5 @@ def GeoUbicacion(path_raster, path_model, confidence, output_name, img_div):
     gdf.to_file('Resultados/' + output_name)
 
 
-GeoUbicacion(path_raster='C:/Users/braya/OneDrive/Desktop/Publicacion desarrollo 1/Libreria/Mapa1.tif', path_model='C:/Users/braya/OneDrive/Desktop/Publicacion desarrollo 1/Libreria/Models/best.pt', confidence=0.2, output_name='Prueba64.shp', img_div=2500)
+
     
