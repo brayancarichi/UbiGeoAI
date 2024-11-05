@@ -57,4 +57,4 @@ GeoUbicacion(path_raster='Mapa.tif', path_model='best.pt', confidence=0.2, outpu
 
 ## Salida
 
-<img src="Figuras/Resultados3.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
+<img src="Resultados3.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
