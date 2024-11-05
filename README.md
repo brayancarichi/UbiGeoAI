@@ -49,4 +49,12 @@ Los shapefile que se obtienen pueden ser visualizados en un SIG y se pueden hace
 
 <img src="Figuras/Resultados2.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
 
+## Ejemplo de utilización de la librería:
+<pre># Se importa la librería 
+from ubigeoai import GeoUbicacion
+GeoUbicacion(path_raster='Mapa.tif', path_model='best.pt', confidence=0.2, output_name='Deteccion.shp', img_div=540)
+</pre>
 
+## Salida
+
+<img src="Figuras/Resultados3.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
