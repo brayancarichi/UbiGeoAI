@@ -9,6 +9,8 @@ Si quieres conocer mas de nuestro trabajo visita los siguientes enlaces de Linke
 
 - https://mx.linkedin.com/in/hugo-luis-rojas-villalobos-5918661a4?original_referer=https%3A%2F%2Fwww.google.com%2F
 
+- https://mx.linkedin.com/in/mario-i-uc-c-b85056122
+
 ## Instalación
 
 ## Creación de carpetas dentro de la ruta donde se implemente la librería  
@@ -35,5 +37,16 @@ De manera automática, la librería creará carpetas esenciales para su funciona
 
 - img_div = tamaño de las matrices generadas a partir de la división del ráster de entrada
 
+## Archivos que se obtienen después de la ejecución de la librería 
+
+Dentro de la carpeta de resultados, tendremos dos resultados. El primero de ellos es un archivo GeoJSON y el otro es un archivo Shapefile.
+
+<img src="Figuras/Resultados 1.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
+
+## Ubicación geográfica de los Bounding Boxes
+
+Los shapefile que se obtienen pueden ser visualizados en un SIG y se pueden hacer análisis con ellos, por ejemplo, análisis de densidad.
+
+<img src="Figuras/Resultados2.png?raw=true" alt="Ejemplo de salida" style="max-width: 500px;">
 
 
