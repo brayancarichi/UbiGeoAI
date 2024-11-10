@@ -11,6 +11,8 @@ Si quieres conocer mas de nuestro trabajo visita los siguientes enlaces de Linke
 
 - https://mx.linkedin.com/in/mario-i-uc-c-b85056122
 
+- https://www.linkedin.com/in/horacio-jessai-romero-r/
+
 ## Instalación
 
 ## Creación de carpetas dentro de la ruta donde se implemente la librería  
